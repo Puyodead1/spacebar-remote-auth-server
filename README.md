@@ -6,6 +6,6 @@
 > **Note**  
 > This does not fully work yet, only handshaking is completed.
 
-This is a POC remote auth server for [Fosscord](fosscord.com).
+This is a POC remote auth server for [Spacebar](https://github.com/spacebarchat/spacebarchat).
 
 Information on the implementation was obtained from https://luna.gitlab.io/discord-unofficial-docs and just obvserving the client.
