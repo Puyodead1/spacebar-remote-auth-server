@@ -1,4 +1,4 @@
-# fosscord-remote-auth-server
+# spacebar-remote-auth-server
 
 > **Warning**  
 > This is just a proof of concept, it should not be used in any "production" environment
